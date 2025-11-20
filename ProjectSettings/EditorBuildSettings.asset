@@ -9,8 +9,6 @@ EditorBuildSettings:
     path: Assets/Scenes/Scene 1 - Restaurant.unity
     guid: 99c9720ab356a0642a771bea13969a05
   m_configObjects:
-    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: f67ed7dd2e164a3449d97de72fe67e1a, type: 2}
-    com.unity.input.settings: {fileID: 11400000, guid: 4e6f31c188a22aa46b44762a1fc64dc9, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 13dddf8984d9c44f2bb57fbca644d1ab, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: ceea3afe7912e4d0ebdaadf1dd87def2, type: 2}
