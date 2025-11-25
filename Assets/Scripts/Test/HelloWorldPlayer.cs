@@ -46,7 +46,7 @@ namespace HelloWorld
 
         static Vector3 GetRandomPositionOnPlane()
         {
-            return new Vector3(Random.Range(-3f, 3f), 1f, Random.Range(-3f, 3f));
+            return new Vector3(Random.Range(-3f, 3f), 1.7f, Random.Range(-10f, 10f));
         }
     }
 }
